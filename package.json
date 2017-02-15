@@ -1,6 +1,6 @@
 {
   "name": "tag-it",
-  "version": "v2.0",
+  "version": "1.0.0",
   "description": "Tag-it is a simple and configurable tag editing widget with autocomplete support.",
   "main": "prototype.js",
   "scripts": {
