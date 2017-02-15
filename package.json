@@ -1,0 +1,19 @@
+{
+  "name": "tag-it",
+  "version": "v2.0",
+  "description": "Tag-it is a simple and configurable tag editing widget with autocomplete support.",
+  "main": "prototype.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcubeinc/tag-it.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcubeinc/tag-it/issues"
+  },
+  "homepage": "https://github.com/rcubeinc/tag-it#readme"
+}
